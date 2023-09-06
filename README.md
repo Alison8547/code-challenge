@@ -1,2 +1,2 @@
-# HackerRank-Desafios-Java
-Desafios do site HackerRank
+# Code Challenge
+Desafios de vários sites
