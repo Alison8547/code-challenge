@@ -1,4 +1,4 @@
-package leetcode.domain;
+package leetcode;
 
 import java.util.Arrays;
 
